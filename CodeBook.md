@@ -1,4 +1,4 @@
-Code Book explaining the variables used for the Project
+# Code Book explaining the variables used for the Project
 
 The original data for this project is available from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -10,7 +10,7 @@ There are duplicate subject and activity observations and so by the principle of
 
 Resulting data frame was written to the avg_tidy_data.txt file and comprises 180 observations of 88 variables
 
-Activity labels are the following:
+## Activity labels are the following:
 
 1 WALKING
 2 WALKING_UPSTAIRS
@@ -19,7 +19,7 @@ Activity labels are the following:
 5 STANDING
 6 LAYING
 
-Variables(88):
+## Variables(88):
 
 subject
 activity
