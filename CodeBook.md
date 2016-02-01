@@ -6,7 +6,8 @@ The merged dataframe of the training and test data with only the mean data varia
 
 The time domain variables were indicated with a leading "time" prefix while the frequency domain variables were indicated with a leading "freq" prefix
 
-There are duplicate subject and activity observations and so by the principle of tidy data, those observations have been averaged 
+There are duplicate subject and activity observations and so by the principle of tidy data, those observations have been averaged.
+
 Resulting data frame was written to the avg_tidy_data.txt file and comprises 180 observations of 88 variables
 
 Variables(88):
