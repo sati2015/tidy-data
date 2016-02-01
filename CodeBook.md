@@ -1,4 +1,4 @@
-# Code Book explaining the variables used for the Project
+# Code Book explaining variables used for the Project
 
 The original data for this project is available from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
