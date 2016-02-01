@@ -10,6 +10,15 @@ There are duplicate subject and activity observations and so by the principle of
 
 Resulting data frame was written to the avg_tidy_data.txt file and comprises 180 observations of 88 variables
 
+Activity labels are the following:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
 Variables(88):
 
 subject
