@@ -35,5 +35,5 @@
 ## create a second, independent tidy data set with the average of each variable for each activity and each subject.
   library(plyr)
   avg_data <- ddply(new_test_train, c("subject","activity"),numcolwise(mean))
-  write.table(avg_data,file="./avg_tidy_data.txt")
+  write.table(avg_data,file="./avg_tidy_data.txt",row.names=FALSE)
   
